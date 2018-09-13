@@ -17,3 +17,6 @@ This file produces plots that show the percent difference in decision times of a
 
 fig5-1.m
 This file produces evidence accumulation trajectories for a recurrent two-agent network.  Equilibration is necessary for proper transfer of decision information.  It is shown as figure 5.1 in the paper.
+
+fig6-2.m
+This file produces plots showing the decision time for all three agents of a unidirectional network to make a decision and a plot showing what percentage of trials all three agents choose the correct decision.  It is figure 6.2 in the paper.
