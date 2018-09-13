@@ -20,3 +20,6 @@ This file produces evidence accumulation trajectories for a recurrent two-agent 
 
 fig6-2.m
 This file produces plots showing the decision time for all three agents of a unidirectional network to make a decision and a plot showing what percentage of trials all three agents choose the correct decision.  It is figure 6.2 in the paper.
+
+fig7-1b.m
+This file produces plots showing the stochastic trajectories of three agents' evidence that are connected all-to-all.  It is figure 7.1b in the paper.
