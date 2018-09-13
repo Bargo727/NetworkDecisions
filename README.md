@@ -9,6 +9,9 @@ This file produces evidence accumulation trajectories for a two-agent unidirecti
 fig4-2a.m
 This file produces plots showing the difference in the percent of trials for which both agents of a unidirectional two-agent network get the correct answers.  It is figure 4.2a.
 
+fig4-2b.m
+This file produces the decision time densities for agent 2 in a unidirectional two-agent network when it receives social information and when it does not.  It is figure 4.2b.
+
 fig4-2c.m
 This file produces plots that show the percent difference in decision times of an agent that receives social information versus an agent that does not receive social information.  It is figure 4.2c. 
 
