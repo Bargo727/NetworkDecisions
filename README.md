@@ -26,3 +26,6 @@ This file produces plots showing the stochastic trajectories of three agents' ev
 
 fig7-2.m
 This file produces plots showing the decision time for all three agents of a clique to make a decision and a plot showing what percentage of trials all three agents choose the correct decision.  It is figure 7.2 in the paper.
+
+fig8-1.m
+This file produces plots showing various statistics for cliques of size N.  It is figure 8.1 in the paper.  
