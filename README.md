@@ -1,5 +1,7 @@
 # NetworkDecisions
-The code provided here was used to produce the figures in the paper "Optimal Evidence Accumulation on Networks"
+The file TableNetwork.pdf contains a table describing some of the notations used in the manuscript titled "Optimal Evidence Accumulation on Social Networks".
+
+The code provided here was used to produce the figures in the paper "Optimal Evidence Accumulation on Social Networks"
 
 The name of the file corresponds to the figure in the paper that was produced by the file.  Running the code will produce the figures.  All simulations here were done in MATLAB
 
